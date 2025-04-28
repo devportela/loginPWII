@@ -72,7 +72,7 @@ if (!$usuario) {
 </head>
 <body>
     <form action="teste.php" method="post">
-        <h2>Cadastro</h2>
+        <h2>Cadastro De Usuário</h2>
         <input type="text" name="nome" placeholder="Digite seu nome" required>
         <input type="email" name="email" placeholder="Digite seu email" required>
         <input type="password" name="senha" placeholder="Digite sua senha" required>
