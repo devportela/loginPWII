@@ -34,6 +34,4 @@ class Usuario{
         return $stmt->execute();
     }
 
-   
-
-    }
+      }
